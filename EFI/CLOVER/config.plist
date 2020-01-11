@@ -355,7 +355,7 @@
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C07805500CD1M</string>
+		<string>C079114054NAD</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -385,16 +385,16 @@
 		<key>ProductName</key>
 		<string>Macmini8,1</string>
 		<key>SerialNumber</key>
-		<string>C07W60UXJYVX</string>
+		<string>C07YFPZVJYVX</string>
 		<key>SmUUID</key>
-		<string>7F05FF1E-EF48-4E8F-8B23-3B9506BB2596</string>
+		<string>70FAB77C-1073-4DD2-8086-55FDF873C924</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
 	<key>SystemParameters</key>
 	<dict>
 		<key>CustomUUID</key>
-		<string>909A4D5C-29A7-4040-B8E0-A7D62F0DC377</string>
+		<string>6E948863-3E0C-5BF0-9C27-687A64748D8C</string>
 		<key>InjectKexts</key>
 		<string>Yes</string>
 		<key>InjectSystemID</key>
